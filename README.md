@@ -10,7 +10,7 @@ The curriculum is based on my personal experience completing a BSEE at the Feder
 Naturally, the actual time you invest highly depends on how many hours a day you put on the online courses and how many of them you want to go through. The textbooks themselves are all good on their own, and valuable resources by themselves if you're good at self-learning.
 
 ## Structure
-The curriculum is split into 2 parts, a mandatory core and several electives. The core aims to cover the basic knowledge every EE should know (even if you're not a specialist), opening the doors to the more specific knowledge which we usually call a specialisation.
+The curriculum is split into 2 parts, a mandatory core and several electives. The core aims to cover the basic knowledge every electrical engineer should know (even if you're not a specialist), opening the doors to the more specific knowledge. Some universities allow you to choose a specialisation, focusing on a single part of EE, which is exactly how the 5th and 6th semesters are designed here.
 
 ## Core
 The core is divided into 4 knowledge areas:
