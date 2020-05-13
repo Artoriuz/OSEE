@@ -215,7 +215,7 @@ Electromagnetic Compatibility
 Semiconductor Physics  
 Optoelectronics  
 
-**Digital Electronics**  
+**Digital Electronics Subjects**  
 VLSI Design  
 Functional Verification  
 Design For Testing  
