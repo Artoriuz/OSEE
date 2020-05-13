@@ -141,7 +141,7 @@ Recommended textbooks:
 [Computer Organization and Design RISC-V Edition: The Hardware Software Interface - David A Patterson and John L. Hennessy](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture-ebook/dp/B0714LM21Z/)
 [Digital Design and Computer Architecture - Harris and Harris](https://www.amazon.com/Digital-Design-Computer-Architecture-Harris/dp/0123944244)
 [Digital Systems, Global Edition - Tocci](https://www.amazon.com/Digital-Systems-Ronald-Tocci-ebook/dp/B01DV7565C)
-(https://www.amazon.com/Digital-Design-RTL-VHDL-Verilog/dp/0470531088/)
+[Digital Design RTL VHDL Verilog - Frank Vahid](https://www.amazon.com/Digital-Design-RTL-VHDL-Verilog/dp/0470531088)
 
 Recommended resources:
 [Nand2Tetris Part 1](https://www.coursera.org/learn/build-a-computer)
