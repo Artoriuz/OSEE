@@ -236,6 +236,12 @@ Antennas
 Optical Communications  
 Wireless Communications  
 
+## Prerequisites
+
+The following image illustrates the "flow" in which subjects should be studied in order to facilitate them.
+
+![Prerequisites](./Images/requisites.png)
+
 
 
 
