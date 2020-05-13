@@ -112,8 +112,8 @@ Recommended textbooks:
 [Linear Systems and Signals - Lathi](https://www.amazon.com/Linear-Systems-Signals-2nd-Lathi/dp/0195158334)
 
 Recommended resources:  
-[Signald and Systems Part 1](https://www.edx.org/course/signals-and-systems-part-1)  
-[Signald and Systems Part 2](https://www.edx.org/course/signals-and-systems-part-2)  
+[Signals and Systems Part 1](https://www.edx.org/course/signals-and-systems-part-1)  
+[Signals and Systems Part 2](https://www.edx.org/course/signals-and-systems-part-2)  
 [Differential Equations: Fourier Series and Partial Differential Equations](https://www.edx.org/course/differential-equations-fourier-series-and-partial)  
 [Discrete Time Signals and Systems Part 1: Time Domain](https://www.edx.org/course/discrete-time-signals-and-systems-part-1-time-do-2)  
 [Discrete Time Signals and Systems Part 2: Frequency Domain](https://www.edx.org/course/discrete-time-signals-and-systems-part-2-frequency)  
