@@ -31,39 +31,39 @@ Finally, the "Signals" subjects cover what might be the most important knowledge
 
 I strongly recommend checking YouTube videos about electronics, hardware, software, etc. See if they interest you. Recommending a textbook is extremely difficult since what you want is an overview of what EE is all about.
 
-Recommended resources:
-[AnandTech](www.anandtech.com)
-[EEVblog](https://www.youtube.com/user/EEVblog/videos)
-[ElectroBOOM](https://www.youtube.com/user/msadaghd/videos)
-[Computerphile](https://www.youtube.com/user/Computerphile/videos)
+Recommended resources:  
+[AnandTech](www.anandtech.com)  
+[EEVblog](https://www.youtube.com/user/EEVblog/videos)  
+[ElectroBOOM](https://www.youtube.com/user/msadaghd/videos)  
+[Computerphile](https://www.youtube.com/user/Computerphile/videos)  
 
 **Calculus**
 
-Recommended textbooks:
+Recommended textbooks:  
 [Calculus - Gilbert Strang](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)
 
-Recommended resources:
-[Calculus 1A - Differentiation](https://www.edx.org/course/calculus-1a-differentiation-2)
-[Calculus 1B - Integration](https://www.edx.org/course/calculus-1b-integration-2)
-[Calculus 1C - Coordinate Systems and Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series-2)
+Recommended resources:  
+[Calculus 1A - Differentiation](https://www.edx.org/course/calculus-1a-differentiation-2)  
+[Calculus 1B - Integration](https://www.edx.org/course/calculus-1b-integration-2)  
+[Calculus 1C - Coordinate Systems and Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series-2)  
 
 **Linear Algebra**
 
-Recommended textbook:
+Recommended textbook:  
 [Linear Algebra - Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
 
-Recommended resources:
-[Introduction to Linear Models and Matrix Algebra](https://www.edx.org/course/introduction-to-linear-models-and-matrix-algebra-3)
-[Linear Algebra: Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-3)
-[Differential Equations: Linear Algebra and NxN Systems of Differential Equations](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-systems-of-differential-equations-2)
+Recommended resources:  
+[Introduction to Linear Models and Matrix Algebra](https://www.edx.org/course/introduction-to-linear-models-and-matrix-algebra-3)  
+[Linear Algebra: Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-3)  
+[Differential Equations: Linear Algebra and NxN Systems of Differential Equations](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-systems-of-differential-equations-2)  
 
 **Boolean Algebra and Logic Circuits**
 
-Recommended textbooks:
-[Digital Design - Frank Vahid](https://www.amazon.com/Digital-Design-Frank-Vahid/dp/0470044373)
+Recommended textbooks:  
+[Digital Design - Frank Vahid](https://www.amazon.com/Digital-Design-Frank-Vahid/dp/0470044373)  
 [Digital Design RTL VHDL Verilog - Frank Vahid](https://www.amazon.com/Digital-Design-RTL-VHDL-Verilog/dp/0470531088)
 
-Recommended resources:
+Recommended resources:  
 [Computation Structures Part 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-circuits)
 
 
@@ -71,129 +71,129 @@ Recommended resources:
 
 **Probability Theory and Statistics**
 
-Recommended textbooks:
+Recommended textbooks:  
 [Linear Algebra Applications - Steve Leon](https://www.amazon.com/Linear-Algebra-Applications-Steve-Leon/dp/0136009298)
 
-Recommended resources:
-[Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics-3)
-[Statistics](https://www.edx.org/course/mathtrackx-statistics)
-[Probability](https://www.edx.org/course/mathtrackx-probability)
-[Statistics and R](https://www.edx.org/course/statistics-and-r-3)
+Recommended resources:  
+[Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics-3)  
+[Statistics](https://www.edx.org/course/mathtrackx-statistics)  
+[Probability](https://www.edx.org/course/mathtrackx-probability)  
+[Statistics and R](https://www.edx.org/course/statistics-and-r-3)  
 
 
 **Electricity and Magnetism**
 
-Recommended textbooks:
+Recommended textbooks:  
 [Electromagnetic Field Theory - Markus Zahn](https://ocw.mit.edu/resources/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/textbook-contents/)
 
-Recommended resources:
-[Electricity and Magnetism Part 1](https://www.edx.org/course/electricity-and-magnetism-part-1)
-[Electricity and Magnetism Part 2](https://www.edx.org/course/electricity-magnetism-part-2)
-[Electricity and Magnetism: Electrostatics](https://www.edx.org/course/electricity-and-magnetism-electrostatics)
-[Electricity and Magnetism: Fields and Forces](https://www.edx.org/course/electricity-and-magnetism-magnetic-fields-and-forc)
-[Electricity and Magnetism: Maxwell Equations](https://www.edx.org/course/electricity-and-magnetism-maxwells-equations)
+Recommended resources:  
+[Electricity and Magnetism Part 1](https://www.edx.org/course/electricity-and-magnetism-part-1)  
+[Electricity and Magnetism Part 2](https://www.edx.org/course/electricity-magnetism-part-2)  
+[Electricity and Magnetism: Electrostatics](https://www.edx.org/course/electricity-and-magnetism-electrostatics)  
+[Electricity and Magnetism: Fields and Forces](https://www.edx.org/course/electricity-and-magnetism-magnetic-fields-and-forc)  
+[Electricity and Magnetism: Maxwell Equations](https://www.edx.org/course/electricity-and-magnetism-maxwells-equations)  
 
 **Programming Logic and Algorithms**
 
-Recommended textbooks:
+Recommended textbooks:  
 [C Programming A Modern Approach - K. N. King](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
 
-Recommended resources:
-[Introduction to Computer Science](https://cs50.harvard.edu/x/2020/)
-[Introduction to Computer Science and Programming](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
-[Basics of Computing and Programming](https://www.edx.org/course/basics-of-computing-and-programming)
+Recommended resources:  
+[Introduction to Computer Science](https://cs50.harvard.edu/x/2020/)  
+[Introduction to Computer Science and Programming](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)  
+[Basics of Computing and Programming](https://www.edx.org/course/basics-of-computing-and-programming)  
 
 
 **Linear Systems and Signals**
 
-Recommended textbooks:
+Recommended textbooks:  
 [Linear Systems and Signals - Lathi](https://www.amazon.com/Linear-Systems-Signals-2nd-Lathi/dp/0195158334)
 
-Recommended resources:
-[Signald and Systems Part 1](https://www.edx.org/course/signals-and-systems-part-1)
-[Signald and Systems Part 2](https://www.edx.org/course/signals-and-systems-part-2)
-[Differential Equations: Fourier Series and Partial Differential Equations](https://www.edx.org/course/differential-equations-fourier-series-and-partial)
-[Discrete Time Signals and Systems Part 1: Time Domain](https://www.edx.org/course/discrete-time-signals-and-systems-part-1-time-do-2)
-[Discrete Time Signals and Systems Part 2: Frequency Domain](https://www.edx.org/course/discrete-time-signals-and-systems-part-2-frequency)
+Recommended resources:  
+[Signald and Systems Part 1](https://www.edx.org/course/signals-and-systems-part-1)  
+[Signald and Systems Part 2](https://www.edx.org/course/signals-and-systems-part-2)  
+[Differential Equations: Fourier Series and Partial Differential Equations](https://www.edx.org/course/differential-equations-fourier-series-and-partial)  
+[Discrete Time Signals and Systems Part 1: Time Domain](https://www.edx.org/course/discrete-time-signals-and-systems-part-1-time-do-2)  
+[Discrete Time Signals and Systems Part 2: Frequency Domain](https://www.edx.org/course/discrete-time-signals-and-systems-part-2-frequency)  
 [Discrete Time Signal Processing](https://www.edx.org/course/discrete-time-signal-processing-4)
 
 ## 3rd Semester
 
 **Discrete Mathematics**
 
-Recommended resources:
-[Mathematical Modelling Basics](https://www.edx.org/course/mathematical-modelling-basics)
-[Computational Thinking for Modelling and Simulation](https://www.edx.org/course/computational-thinking-for-modeling-and-simulation)
-[Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab)
+Recommended resources:  
+[Mathematical Modelling Basics](https://www.edx.org/course/mathematical-modelling-basics)  
+[Computational Thinking for Modelling and Simulation](https://www.edx.org/course/computational-thinking-for-modeling-and-simulation)  
+[Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab)  
 
 **Electric Circuits**
 
-Recommended textbooks:
-[Fundamentals of Electric Circuits - Matthew Sadiku](https://www.amazon.com/Fundamentals-Electric-Circuits-Charles-Alexander/dp/0078028221)
+Recommended textbooks:  
+[Fundamentals of Electric Circuits - Matthew Sadiku](https://www.amazon.com/Fundamentals-Electric-Circuits-Charles-Alexander/dp/0078028221)  
 
-Recommended resources:
-[Circuits and Electronics 1: Basic Circuit Analysis](https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysis)
+Recommended resources:  
+[Circuits and Electronics 1: Basic Circuit Analysis](https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysis)  
 
 **Digital Systems and Computer Architecture**
 
-Recommended textbooks:
-[Computer Architecture A Quantitative Approach - David A Patterson and John L. Hennessy](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
-[Computer Organization and Design RISC-V Edition: The Hardware Software Interface - David A Patterson and John L. Hennessy](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture-ebook/dp/B0714LM21Z/)
-[Digital Design and Computer Architecture - Harris and Harris](https://www.amazon.com/Digital-Design-Computer-Architecture-Harris/dp/0123944244)
-[Digital Systems, Global Edition - Tocci](https://www.amazon.com/Digital-Systems-Ronald-Tocci-ebook/dp/B01DV7565C)
-[Digital Design RTL VHDL Verilog - Frank Vahid](https://www.amazon.com/Digital-Design-RTL-VHDL-Verilog/dp/0470531088)
+Recommended textbooks:  
+[Computer Architecture A Quantitative Approach - David A Patterson and John L. Hennessy](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)  
+[Computer Organization and Design RISC-V Edition: The Hardware Software Interface - David A Patterson and John L. Hennessy](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture-ebook/dp/B0714LM21Z/)  
+[Digital Design and Computer Architecture - Harris and Harris](https://www.amazon.com/Digital-Design-Computer-Architecture-Harris/dp/0123944244)  
+[Digital Systems, Global Edition - Tocci](https://www.amazon.com/Digital-Systems-Ronald-Tocci-ebook/dp/B01DV7565C)  
+[Digital Design RTL VHDL Verilog - Frank Vahid](https://www.amazon.com/Digital-Design-RTL-VHDL-Verilog/dp/0470531088)  
 
-Recommended resources:
-[Nand2Tetris Part 1](https://www.coursera.org/learn/build-a-computer)
-[Nand2Tetris Part 2](https://www.coursera.org/learn/nand2tetris2)
-[Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)
-[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)
+Recommended resources:  
+[Nand2Tetris Part 1](https://www.coursera.org/learn/build-a-computer)  
+[Nand2Tetris Part 2](https://www.coursera.org/learn/nand2tetris2)  
+[Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)  
+[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)  
 
 
 **Control Systems**
 
-Recommended textbooks:
-[Control Systems Engineering - Norman Nise](https://www.amazon.com/Control-Systems-Engineering-Norman-Nise/dp/0470917695)
-[Modern Control Systems - Richard C. Dorf](https://www.amazon.com/Modern-Control-Systems-13th-Richard/dp/0134407628)
+Recommended textbooks:  
+[Control Systems Engineering - Norman Nise](https://www.amazon.com/Control-Systems-Engineering-Norman-Nise/dp/0470917695)  
+[Modern Control Systems - Richard C. Dorf](https://www.amazon.com/Modern-Control-Systems-13th-Richard/dp/0134407628)  
 
-Recommended resources:
-[Introduction to Control System Design - A First Look](https://www.edx.org/course/introduction-to-control-system-design-a-first-look)
-[Dynamics and Control](https://www.edx.org/course/dynamics-and-control)
+Recommended resources:  
+[Introduction to Control System Design - A First Look](https://www.edx.org/course/introduction-to-control-system-design-a-first-look)  
+[Dynamics and Control](https://www.edx.org/course/dynamics-and-control)  
 [Introduction to State Space Control](https://www.edx.org/course/introduction-to-state-space-control)
 
 ## 4th Semester
 
 **Power Systems Analysis**
 
-Recommended textbooks:
+Recommended textbooks:  
 [Power System Analysis - Hadi Sadaat](https://www.amazon.com/Power-System-Analysis-Third-Saadat/dp/0984543864)
 
 **Electric Machines**
 
-Recommended textbooks:
+Recommended textbooks:  
 [Fitzgerald & Kingsley's Electric Machinery](https://www.amazon.com/Fitzgerald-Kingsleys-Electric-Machinery-Stephen/dp/0073380466)
 
 **Electronics**
 
-Recommended textbooks:
-[Microelectronic Circuits - Sedra](https://www.amazon.com/Microelectronic-Circuits-Electrical-Computer-Engineering/dp/0190853549)
-[Microelectronics - Razavi](https://www.amazon.com/Microelectronics-2Nd-Behzad-Razavi/dp/8126571357)
+Recommended textbooks:  
+[Microelectronic Circuits - Sedra](https://www.amazon.com/Microelectronic-Circuits-Electrical-Computer-Engineering/dp/0190853549)  
+[Microelectronics - Razavi](https://www.amazon.com/Microelectronics-2Nd-Behzad-Razavi/dp/8126571357)  
 [Electronic Principles - Malvino](https://www.amazon.com/Electronic-Principles-Albert-Malvino/dp/0073373885)
 
-Recommended resources:
-[Circuits and Electronics 2: Amplification, Speed, and Delay](https://www.edx.org/course/circuits-and-electronics-2-amplification-speed-and-delay)
-[Circuits and Electronics 3: Applications](https://www.edx.org/course/circuits-and-electronics-3-applications)
-[Principle of Semiconductor Devices Part I: Semiconductors, PN Junctions and Bipolar Junction Transistors](https://www.edx.org/course/principle-of-semiconductor-devices-part-i-semicond)
-[Principle of Semiconductor Devices Part II: Field Effect Transistors and MOSFETs](https://www.edx.org/course/principle-of-semiconductor-devices-part-ii-field-e)
+Recommended resources:  
+[Circuits and Electronics 2: Amplification, Speed, and Delay](https://www.edx.org/course/circuits-and-electronics-2-amplification-speed-and-delay)  
+[Circuits and Electronics 3: Applications](https://www.edx.org/course/circuits-and-electronics-3-applications)  
+[Principle of Semiconductor Devices Part I: Semiconductors, PN Junctions and Bipolar Junction Transistors](https://www.edx.org/course/principle-of-semiconductor-devices-part-i-semicond)  
+[Principle of Semiconductor Devices Part II: Field Effect Transistors and MOSFETs](https://www.edx.org/course/principle-of-semiconductor-devices-part-ii-field-e)  
 
 **Communication Systems**
 
-Recommended textbooks:
+Recommended textbooks:  
 [Modern Digital and Analog Communication - Lathi](https://www.amazon.com/Digital-Communication-Electrical-Computer-Engineering/dp/0190686847)
 
-Recommended resources:
-[A System View of Communications: From Signals to Packets (Part 1)](https://www.edx.org/course/a-system-view-of-communications-from-signals-to-pa)
-[A System View of Communications: From Signals to Packets (Part 2)](https://www.edx.org/course/a-system-view-of-communications-from-signals-to-2)
-[A System View of Communications: From Signals to Packets (Part 3)](https://www.edx.org/course/a-system-view-of-communications-from-signals-to-3)
+Recommended resources:  
+[A System View of Communications: From Signals to Packets (Part 1)](https://www.edx.org/course/a-system-view-of-communications-from-signals-to-pa)  
+[A System View of Communications: From Signals to Packets (Part 2)](https://www.edx.org/course/a-system-view-of-communications-from-signals-to-2)  
+[A System View of Communications: From Signals to Packets (Part 3)](https://www.edx.org/course/a-system-view-of-communications-from-signals-to-3)  
 [IoT Networks and Protocols](https://www.edx.org/course/iot-networks-and-protocols)
 
