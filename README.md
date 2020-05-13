@@ -1,11 +1,13 @@
 # Open-source Electrical Engineering Curriculum
 This repository consists of a series of online courses and textbook recommendations that together cover most of the basic Electrical Engineering knowledge, similarly to a bachelor's degree.
 
-While I strongly recommend going to an actual university, nowadays we have a wide array of extremely high quality online education resources. Deciding what to study on your own might be difficult when the catalogues are long, and I hope I can at least guide you.
+While I strongly recommend going to an actual university, nowadays we have a wide array of extremely high quality online education resources. Deciding what to study on your own might be difficult when the catalogues are long, and I hope I can at least guide you if you have no idea where to start.
+
+For those of you in the path of obtaining an actual BSEE degree, this might still be useful since it can complement your education.
 
 The curriculum is based on my personal experience completing a BSEE at the Federal University of Rio Grande do Norte, which was a 5 years long programme, but revised to fit into 3 years due to the strong inspiration I got from [ETH Zürich's](https://ee.ethz.ch/studies/bachelor.html) and [MIT's](https://www.eecs.mit.edu/docs/ug/freshman_roadmaps.pdf) curriculums.
 
-Naturally, the actual time you invest highly depends on how many hours a day you put on the online courses and how many of them you want to go through. The textbooks themselves are all good on their own, and valuable resources by themselves.
+Naturally, the actual time you invest highly depends on how many hours a day you put on the online courses and how many of them you want to go through. The textbooks themselves are all good on their own, and valuable resources by themselves if you're good at self-learning.
 
 ## Structure
 The curriculum is split into 2 parts, a mandatory core and several electives. The core aims to cover the basic knowledge every EE should know (even if you're not a specialist), opening the doors to the more specific knowledge which we usually call a specialisation.
