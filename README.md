@@ -197,3 +197,47 @@ Recommended resources:
 [A System View of Communications: From Signals to Packets (Part 3)](https://www.edx.org/course/a-system-view-of-communications-from-signals-to-3)  
 [IoT Networks and Protocols](https://www.edx.org/course/iot-networks-and-protocols)
 
+## 5th and 6th Semesters
+This is where the core principles of Electrical Engineering are completely covered. The student should freely choose the remaining subjects based on personal interests and the preferred knowledge area. I won't bother specifying specific courses since by now you're probably used to edx and coursera.
+
+**Power Systems Subjects**  
+Power Systems II  
+Power Substations  
+Power Protection  
+
+**Electronics Subjects**  
+Power Electronics  
+Nanoelectronics  
+RF Electronics  
+Electromagnetic Compatibility  
+Semiconductor Physics  
+Optoelectronics  
+
+**Digital Electronics**  
+VLSI Design  
+Functional Verification  
+Design For Testing  
+Embedded Systems  
+
+**Computing Subjects**    
+Operating Systems  
+Machine Learning  
+Computer Vision  
+Computer Networks  
+
+**Control Subjects**  
+Adaptive Control  
+Non-Linear Systems  
+
+**Communications Subjects**  
+Digital Signal Processing  
+Advanced Compression and Coding  
+Antennas  
+Optical Communications  
+Wireless Communications  
+
+
+
+
+
+
