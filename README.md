@@ -12,10 +12,10 @@ The curriculum is split into 2 parts, a mandatory core and several electives. Th
 
 ## Core
 The core is divided into 4 knowledge areas:
-- Mathematics: Calculus, Linear Algebra, Statistics, etc.
-- Electricity: Electromagnetic Theory, Electric Circuits, Electronics, etc.
-- Computing: Boolean Algebra, Logic Circuits, Programming, etc.
-- Signals: Signals and Systems, Control, Communications, etc.
+- **Mathematics**: Calculus, Linear Algebra, Statistics, etc.
+- **Electricity**: Electromagnetic Theory, Electric Circuits, Electronics, etc.
+- **Computing**: Boolean Algebra, Logic Circuits, Programming, etc.
+- **Signals**: Signals and Systems, Control, Communications, etc.
 
 The "Mathematics" subjects are the very first pillars engineers needs to build in order to sustain the rest of our knowledge, you'll need calculus to understand electricity, linear algebra to understand robotics, statistics to understand communications, etc.
 
