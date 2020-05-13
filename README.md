@@ -117,7 +117,7 @@ Recommended resources:
 [Discrete Time Signals and Systems Part 2: Frequency Domain](https://www.edx.org/course/discrete-time-signals-and-systems-part-2-frequency)
 [Discrete Time Signal Processing](https://www.edx.org/course/discrete-time-signal-processing-4)
 
-3rd Semester
+## 3rd Semester
 
 **Discrete Mathematics**
 
@@ -161,7 +161,7 @@ Recommended resources:
 [Dynamics and Control](https://www.edx.org/course/dynamics-and-control)
 [Introduction to State Space Control](https://www.edx.org/course/introduction-to-state-space-control)
 
-4th Semester
+## 4th Semester
 
 **Power Systems Analysis**
 
