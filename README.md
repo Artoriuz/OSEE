@@ -33,7 +33,7 @@ Finally, the "Signals" subjects cover what might be the most important knowledge
 
 I strongly recommend checking YouTube videos about electronics, hardware, software, etc. See if they interest you. Recommending a textbook is extremely difficult since what you want is an overview of what EE is all about.
 
-Recommended resources:  
+Trustworthy resources:  
 [AnandTech](www.anandtech.com)  
 [EEVblog](https://www.youtube.com/user/EEVblog/videos)  
 [ElectroBOOM](https://www.youtube.com/user/msadaghd/videos)  
@@ -44,7 +44,7 @@ Recommended resources:
 Recommended textbooks:  
 [Calculus - Gilbert Strang](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)
 
-Recommended resources:  
+Trustworthy resources:  
 [Calculus 1A - Differentiation](https://www.edx.org/course/calculus-1a-differentiation-2)  
 [Calculus 1B - Integration](https://www.edx.org/course/calculus-1b-integration-2)  
 [Calculus 1C - Coordinate Systems and Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series-2)  
@@ -54,7 +54,7 @@ Recommended resources:
 Recommended textbook:  
 [Linear Algebra - Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
 
-Recommended resources:  
+Trustworthy resources:  
 [Introduction to Linear Models and Matrix Algebra](https://www.edx.org/course/introduction-to-linear-models-and-matrix-algebra-3)  
 [Linear Algebra: Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-3)  
 [Differential Equations: Linear Algebra and NxN Systems of Differential Equations](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-systems-of-differential-equations-2)  
@@ -65,7 +65,7 @@ Recommended textbooks:
 [Digital Design - Frank Vahid](https://www.amazon.com/Digital-Design-Frank-Vahid/dp/0470044373)  
 [Digital Design RTL VHDL Verilog - Frank Vahid](https://www.amazon.com/Digital-Design-RTL-VHDL-Verilog/dp/0470531088)
 
-Recommended resources:  
+Trustworthy resources:  
 [Computation Structures Part 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-circuits)
 
 
@@ -76,7 +76,7 @@ Recommended resources:
 Recommended textbooks:  
 [Linear Algebra Applications - Steve Leon](https://www.amazon.com/Linear-Algebra-Applications-Steve-Leon/dp/0136009298)
 
-Recommended resources:  
+Trustworthy resources:  
 [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics-3)  
 [Statistics](https://www.edx.org/course/mathtrackx-statistics)  
 [Probability](https://www.edx.org/course/mathtrackx-probability)  
@@ -88,7 +88,7 @@ Recommended resources:
 Recommended textbooks:  
 [Electromagnetic Field Theory - Markus Zahn](https://ocw.mit.edu/resources/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/textbook-contents/)
 
-Recommended resources:  
+Trustworthy resources:  
 [Electricity and Magnetism Part 1](https://www.edx.org/course/electricity-and-magnetism-part-1)  
 [Electricity and Magnetism Part 2](https://www.edx.org/course/electricity-magnetism-part-2)  
 [Electricity and Magnetism: Electrostatics](https://www.edx.org/course/electricity-and-magnetism-electrostatics)  
@@ -100,7 +100,7 @@ Recommended resources:
 Recommended textbooks:  
 [C Programming A Modern Approach - K. N. King](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
 
-Recommended resources:  
+Trustworthy resources:  
 [Introduction to Computer Science](https://cs50.harvard.edu/x/2020/)  
 [Introduction to Computer Science and Programming](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)  
 [Basics of Computing and Programming](https://www.edx.org/course/basics-of-computing-and-programming)  
@@ -111,7 +111,7 @@ Recommended resources:
 Recommended textbooks:  
 [Linear Systems and Signals - Lathi](https://www.amazon.com/Linear-Systems-Signals-2nd-Lathi/dp/0195158334)
 
-Recommended resources:  
+Trustworthy resources:  
 [Signals and Systems Part 1](https://www.edx.org/course/signals-and-systems-part-1)  
 [Signals and Systems Part 2](https://www.edx.org/course/signals-and-systems-part-2)  
 [Differential Equations: Fourier Series and Partial Differential Equations](https://www.edx.org/course/differential-equations-fourier-series-and-partial)  
@@ -123,7 +123,7 @@ Recommended resources:
 
 **Discrete Mathematics**
 
-Recommended resources:  
+Trustworthy resources:  
 [Mathematical Modelling Basics](https://www.edx.org/course/mathematical-modelling-basics)  
 [Computational Thinking for Modelling and Simulation](https://www.edx.org/course/computational-thinking-for-modeling-and-simulation)  
 [Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab)  
@@ -133,7 +133,7 @@ Recommended resources:
 Recommended textbooks:  
 [Fundamentals of Electric Circuits - Matthew Sadiku](https://www.amazon.com/Fundamentals-Electric-Circuits-Charles-Alexander/dp/0078028221)  
 
-Recommended resources:  
+Trustworthy resources:  
 [Circuits and Electronics 1: Basic Circuit Analysis](https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysis)  
 
 **Digital Systems and Computer Architecture**
@@ -145,7 +145,7 @@ Recommended textbooks:
 [Digital Systems, Global Edition - Tocci](https://www.amazon.com/Digital-Systems-Ronald-Tocci-ebook/dp/B01DV7565C)  
 [Digital Design RTL VHDL Verilog - Frank Vahid](https://www.amazon.com/Digital-Design-RTL-VHDL-Verilog/dp/0470531088)  
 
-Recommended resources:  
+Trustworthy resources:  
 [Nand2Tetris Part 1](https://www.coursera.org/learn/build-a-computer)  
 [Nand2Tetris Part 2](https://www.coursera.org/learn/nand2tetris2)  
 [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)  
@@ -158,7 +158,7 @@ Recommended textbooks:
 [Control Systems Engineering - Norman Nise](https://www.amazon.com/Control-Systems-Engineering-Norman-Nise/dp/0470917695)  
 [Modern Control Systems - Richard C. Dorf](https://www.amazon.com/Modern-Control-Systems-13th-Richard/dp/0134407628)  
 
-Recommended resources:  
+Trustworthy resources:  
 [Introduction to Control System Design - A First Look](https://www.edx.org/course/introduction-to-control-system-design-a-first-look)  
 [Dynamics and Control](https://www.edx.org/course/dynamics-and-control)  
 [Introduction to State Space Control](https://www.edx.org/course/introduction-to-state-space-control)
@@ -182,7 +182,7 @@ Recommended textbooks:
 [Microelectronics - Razavi](https://www.amazon.com/Microelectronics-2Nd-Behzad-Razavi/dp/8126571357)  
 [Electronic Principles - Malvino](https://www.amazon.com/Electronic-Principles-Albert-Malvino/dp/0073373885)
 
-Recommended resources:  
+Trustworthy resources:  
 [Circuits and Electronics 2: Amplification, Speed, and Delay](https://www.edx.org/course/circuits-and-electronics-2-amplification-speed-and-delay)  
 [Circuits and Electronics 3: Applications](https://www.edx.org/course/circuits-and-electronics-3-applications)  
 [Principle of Semiconductor Devices Part I: Semiconductors, PN Junctions and Bipolar Junction Transistors](https://www.edx.org/course/principle-of-semiconductor-devices-part-i-semicond)  
@@ -193,7 +193,7 @@ Recommended resources:
 Recommended textbooks:  
 [Modern Digital and Analog Communication - Lathi](https://www.amazon.com/Digital-Communication-Electrical-Computer-Engineering/dp/0190686847)
 
-Recommended resources:  
+Trustworthy resources:  
 [A System View of Communications: From Signals to Packets (Part 1)](https://www.edx.org/course/a-system-view-of-communications-from-signals-to-pa)  
 [A System View of Communications: From Signals to Packets (Part 2)](https://www.edx.org/course/a-system-view-of-communications-from-signals-to-2)  
 [A System View of Communications: From Signals to Packets (Part 3)](https://www.edx.org/course/a-system-view-of-communications-from-signals-to-3)  
