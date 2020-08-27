@@ -75,7 +75,7 @@ Trustworthy resources:
 **Probability Theory and Statistics**
 
 Recommended textbooks:  
-[All of Statistics: A Concise Course in Statistical Inference - Larry Wasserman](https://www.amazon.com/All-Statistics-Concise-Statistical-Inference/dp/0387402721)
+[All of Statistics: A Concise Course in Statistical Inference - Larry Wasserman](https://www.amazon.com/All-Statistics-Concise-Statistical-Inference/dp/0387402721)  
 [Grinstead and Snell’s Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf)
 
 Trustworthy resources:  
@@ -100,7 +100,7 @@ Trustworthy resources:
 **Programming Logic and Algorithms**
 
 Recommended textbooks:  
-[C Programming Language - Brian W. Kernighan, Dennis M. Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+[C Programming Language - Brian W. Kernighan, Dennis M. Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)  
 [C Programming A Modern Approach - K. N. King](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
 
 Trustworthy resources:  
@@ -112,8 +112,8 @@ Trustworthy resources:
 **Linear Systems and Signals**
 
 Recommended textbooks:  
-[Linear Systems and Signals - Lathi](https://www.amazon.com/Linear-Systems-Signals-2nd-Lathi/dp/0195158334)
-[Signals and Systems - Alan V. Oppenheim, Alan S. Willsky, with S. Hamid](https://www.amazon.com/Signals-Systems-2nd-Alan-Oppenheim/dp/0138147574/)
+[Linear Systems and Signals - Lathi](https://www.amazon.com/Linear-Systems-Signals-2nd-Lathi/dp/0195158334)  
+[Signals and Systems - Alan V. Oppenheim, Alan S. Willsky, with S. Hamid](https://www.amazon.com/Signals-Systems-2nd-Alan-Oppenheim/dp/0138147574/)  
 [Discrete-Time Signal Processing - Alan V. Oppenheim, Ronald W. Schafer](https://www.amazon.com/Discrete-Time-Signal-Processing-3rd-Prentice-Hall/dp/0131988425)
 
 Trustworthy resources:  
@@ -148,7 +148,7 @@ Recommended textbooks:
 [Computer Organization and Design RISC-V Edition: The Hardware Software Interface - David A Patterson and John L. Hennessy](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture-ebook/dp/B0714LM21Z/)  
 [Digital Design and Computer Architecture - Harris and Harris](https://www.amazon.com/Digital-Design-Computer-Architecture-Harris/dp/0123944244)  
 [Digital Systems, Global Edition - Tocci](https://www.amazon.com/Digital-Systems-Ronald-Tocci-ebook/dp/B01DV7565C)  
-[Digital Design RTL VHDL Verilog - Frank Vahid](https://www.amazon.com/Digital-Design-RTL-VHDL-Verilog/dp/0470531088)
+[Digital Design RTL VHDL Verilog - Frank Vahid](https://www.amazon.com/Digital-Design-RTL-VHDL-Verilog/dp/0470531088)  
 [Logic & Computer Design Fundamentals - M. Morris R. Mano, Charles R. Kime, Tom Martin](https://www.amazon.com/Logic-Computer-Design-Fundamentals-5th/dp/0133760634)  
 
 Trustworthy resources:  
