@@ -58,7 +58,7 @@ Trustworthy resources:
 **Linear Algebra**
 
 Recommended textbook:  
-[Linear Algebra - Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
+[Linear Algebra - Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)  
 [Linear Algebra Applications - Steve Leon](https://www.amazon.com/Linear-Algebra-Applications-Steve-Leon/dp/0136009298)
 
 Trustworthy resources:  
