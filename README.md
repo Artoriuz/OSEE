@@ -36,7 +36,7 @@ but that doesn't mean cool casual books don't exist. Brian Kernighan, the author
 still want to understand the basics of computing and the digital world. It was never meant to be read by engineering students, but it can be a good introduction since it gives you a showcase of many concepts without delving 
 too deep into technical details.
 
-Recommended book:
+Recommended book:  
 [Understanding the Digital World - Brian Kernighan](https://www.amazon.com/Understanding-Digital-World-Computers-Internet/dp/069117654X)
 
 Trustworthy resources:  
