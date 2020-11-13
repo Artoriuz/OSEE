@@ -1,4 +1,4 @@
-# Open-source Electrical Engineering Curriculum
+# Open-Source Electrical Engineering Curriculum
 This repository consists of a series of online courses and textbook recommendations that together cover most of the basic Electrical Engineering knowledge, similarly to a bachelor's degree.
 
 While I strongly recommend going to an actual university, nowadays we have a wide array of extremely high quality online education resources. Deciding what to study on your own might be difficult when the catalogues are long, and I hope I can at least guide you if you have no idea where to start.
