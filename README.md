@@ -25,7 +25,7 @@ The "Electricity" subjects are related to the physical aspects of electromagneti
 
 The "Computing" subjects cover the logical parts of digital electronics, an area of knowledge that ended up giving birth to IT, CS, CE, etc.
 
-Finally, the "Signals" subjects cover what might be the most important knowledge in EE, being able to understand what the frequency domain is and how we can design things outside the time-domain. Signals and Systems will lead the way to all knowledge related to control systems, communications systems, computer vision, etc.
+Finally, the "Signals" subjects cover what might be the most unique knowledge in EE, being able to understand what the frequency domain is and how we can design things outside the time-domain. Signals and Systems will lead the way to all knowledge related to control systems, communications systems, computer vision, etc.
 
 ## 1st Semester
 
