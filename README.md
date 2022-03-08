@@ -196,7 +196,7 @@ Recommended textbooks:
 
 Trustworthy resources:  
 [Circuits and Electronics 2: Amplification, Speed, and Delay](https://www.edx.org/course/circuits-and-electronics-2-amplification-speed-and-delay)  
-[Circuits and Electronics 3: Applications](https://www.edx.org/course/circuits-and-electronics-3-applications)  
+[Circuits and Electronics 3: Applications](https://www.edx.org/course/circuits-and-electronics-3-applications-2)  
 [Principle of Semiconductor Devices Part I: Semiconductors, PN Junctions and Bipolar Junction Transistors](https://www.edx.org/course/principle-of-semiconductor-devices-part-i-semicond)  
 [Principle of Semiconductor Devices Part II: Field Effect Transistors and MOSFETs](https://www.edx.org/course/principle-of-semiconductor-devices-part-ii-field-e)  
 
