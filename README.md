@@ -66,6 +66,9 @@ Recommended textbooks:
 [Digital Design - Frank Vahid](https://www.amazon.com/Digital-Design-Frank-Vahid/dp/0470044373)
 [Digital Design RTL VHDL Verilog - Frank Vahid](https://www.amazon.com/Digital-Design-RTL-VHDL-Verilog/dp/0470531088)
 
+Trustworthy resources:
+[Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017)
+
 ## 2nd Semester
 
 **Probability Theory and Statistics**
